@@ -1,0 +1,10 @@
+D:\Проекты\DEMO\RSASettingsDemo\SettingsDemo\bin\Debug\RSASettingsDemo.exe.config
+D:\Проекты\DEMO\RSASettingsDemo\SettingsDemo\bin\Debug\RSASettingsDemo.exe
+D:\Проекты\DEMO\RSASettingsDemo\SettingsDemo\bin\Debug\RSASettingsDemo.pdb
+D:\Проекты\DEMO\RSASettingsDemo\SettingsDemo\obj\Debug\RSASettingsDemo.csprojResolveAssemblyReference.cache
+D:\Проекты\DEMO\RSASettingsDemo\SettingsDemo\obj\Debug\RSASettingsDemo.Form1.resources
+D:\Проекты\DEMO\RSASettingsDemo\SettingsDemo\obj\Debug\RSASettingsDemo.Properties.Resources.resources
+D:\Проекты\DEMO\RSASettingsDemo\SettingsDemo\obj\Debug\RSASettingsDemo.csproj.GenerateResource.cache
+D:\Проекты\DEMO\RSASettingsDemo\SettingsDemo\obj\Debug\RSASettingsDemo.csproj.CoreCompileInputs.cache
+D:\Проекты\DEMO\RSASettingsDemo\SettingsDemo\obj\Debug\RSASettingsDemo.exe
+D:\Проекты\DEMO\RSASettingsDemo\SettingsDemo\obj\Debug\RSASettingsDemo.pdb

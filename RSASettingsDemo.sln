@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSASettingsDemo", "SettingsDemo\RSASettingsDemo.csproj", "{354904E8-BF1C-4DC6-9293-0908A234899A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{354904E8-BF1C-4DC6-9293-0908A234899A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354904E8-BF1C-4DC6-9293-0908A234899A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354904E8-BF1C-4DC6-9293-0908A234899A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354904E8-BF1C-4DC6-9293-0908A234899A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F2428A-6528-44DF-8D5C-7F064F14E7CC}
+	EndGlobalSection
+EndGlobal
